@@ -1,0 +1,191 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "image": "assets/BumiCover.jpg",
+            "title": "Bumi",
+            "author": "Tere Liye",
+            "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Quis varius quam quisque id diam vel quam elementum. Vulputate mi sit amet mauris commodo quis imperdiet. Cras semper auctor neque vitae tempus quam pellentesque. Purus sit amet volutpat consequat. Quam lacus suspendisse faucibus interdum. Sociis natoque penatibus et magnis dis parturient montes nascetur. Porttitor massa id neque aliquam. Egestas erat imperdiet sed euismod nisi. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Laoreet sit amet cursus sit amet.",
+            "category": "Fantasy",
+            "language": "Indonesia",
+            "stok": "20"
+        },
+        {
+            "id": 2,
+            "image": "assets/BulanCover.jpg",
+            "title": "Bulan",
+            "author": "Tere Liye",
+            "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Quis varius quam quisque id diam vel quam elementum. Vulputate mi sit amet mauris commodo quis imperdiet. Cras semper auctor neque vitae tempus quam pellentesque. Purus sit amet volutpat consequat. Quam lacus suspendisse faucibus interdum. Sociis natoque penatibus et magnis dis parturient montes nascetur. Porttitor massa id neque aliquam. Egestas erat imperdiet sed euismod nisi. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Laoreet sit amet cursus sit amet.",
+            "category": "Fantasy",
+            "language": "Indonesia"
+,            "stok": "20"
+        },
+        {
+            "id": 3,
+            "image": "assets/MatahariCover.jpg",
+            "title": "Matahari",
+            "author": "Tere Liye",
+            "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Quis varius quam quisque id diam vel quam elementum. Vulputate mi sit amet mauris commodo quis imperdiet. Cras semper auctor neque vitae tempus quam pellentesque. Purus sit amet volutpat consequat. Quam lacus suspendisse faucibus interdum. Sociis natoque penatibus et magnis dis parturient montes nascetur. Porttitor massa id neque aliquam. Egestas erat imperdiet sed euismod nisi. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Laoreet sit amet cursus sit amet.",
+            "category": "Fantasy",
+            "language": "Indonesia",
+            "stok": "20"
+        },
+        {
+            "id": 4,
+            "image": "assets/BintangCover.jpg",
+            "title": "Bintang",
+            "author": "Tere Liye",
+            "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Quis varius quam quisque id diam vel quam elementum. Vulputate mi sit amet mauris commodo quis imperdiet. Cras semper auctor neque vitae tempus quam pellentesque. Purus sit amet volutpat consequat. Quam lacus suspendisse faucibus interdum. Sociis natoque penatibus et magnis dis parturient montes nascetur. Porttitor massa id neque aliquam. Egestas erat imperdiet sed euismod nisi. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Laoreet sit amet cursus sit amet.",
+            "category": "Fantasy",
+            "language": "Indonesia",
+            "stok": "20"
+        },
+        {
+            "id": 5,
+            "image": "assets/KometCover.jpg",
+            "title": "Komet",
+            "author": "Tere Liye",
+            "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Quis varius quam quisque id diam vel quam elementum. Vulputate mi sit amet mauris commodo quis imperdiet. Cras semper auctor neque vitae tempus quam pellentesque. Purus sit amet volutpat consequat. Quam lacus suspendisse faucibus interdum. Sociis natoque penatibus et magnis dis parturient montes nascetur. Porttitor massa id neque aliquam. Egestas erat imperdiet sed euismod nisi. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Laoreet sit amet cursus sit amet.",
+            "category": "Fantasy",
+            "language": "Indonesia",
+            "stok": "20"
+        }
+    ],
+
+    "booksOnBorrow": [
+        {
+            "id": 1,
+            "image": "assets/BumiCover.jpg",
+            "title": "Bumi",
+            "author": "Tere Liye",
+            "borrowDate": "04/06/2024",
+            "returnDate": "-",
+            "status": "Waiting"
+        },
+        {
+            "id": 2,
+            "image": "assets/BulanCover.jpg",
+            "title": "Bulan",
+            "author": "Tere Liye",
+            "borrowDate": "04/06/2024",
+            "returnDate": "07/06/2024",
+            "status": "Aprove"
+        },
+        {
+            "id": 3,
+            "image": "assets/MatahariCover.jpg",
+            "title": "Matahari",
+            "author": "Tere Liye",
+            "borrowDate": "02/06/2024",
+            "returnDate": "05/06/2024",
+            "status": "Aprove"
+        },
+        {
+            "id": 4,
+            "image": "assets/BintangCover.jpg",
+            "title": "Bintang",
+            "author": "Tere Liye",
+            "borrowDate": "01/06/2024",
+            "returnDate": "04/06/2024",
+            "status": "Done"
+        },
+        {
+            "id": 5,
+            "image": "assets/KometCover.jpg",
+            "title": "Komet",
+            "author": "Tere Liye",
+            "borrowDate": "01/06/2024",
+            "returnDate": "04/06/2024",
+            "status": "Done"
+        }
+    ],
+
+    "booksOnReturn": [
+        {
+            "id": 1,
+            "image": "assets/BumiCover.jpg",
+            "title": "Bumi",
+            "author": "Tere Liye",
+            "returnDate": "04/06/2024"
+        },
+        {
+            "id": 2,
+            "image": "assets/BulanCover.jpg",
+            "title": "Bulan",
+            "author": "Tere Liye",
+            "returnDate": "01/06/2024"
+        },
+        {
+            "id": 3,
+            "image": "assets/MatahariCover.jpg",
+            "title": "Matahari",
+            "author": "Tere Liye",
+            "returnDate": "28/05/2024"
+        },
+        {
+            "id": 4,
+            "image": "assets/BintangCover.jpg",
+            "title": "Bintang",
+            "author": "Tere Liye",
+            "returnDate": "25/05/2024"
+        },
+        {
+            "id": 5,
+            "image": "assets/KometCover.jpg",
+            "title": "Komet",
+            "author": "Tere Liye",
+            "returnDate": "22/05/2024"
+        }
+    ],
+
+    "categories": [
+        {
+            "id": 1,
+            "name": "Adult Fiction"
+        },
+        {
+            "id": 2,
+            "name": "Art, Music & Photography"
+        },
+        {
+            "id": 3,
+            "name": "Biographies & Memories"
+        },
+        {
+            "id": 4,
+            "name": "Buddhism & Hinduism"
+        },
+        {
+            "id": 5,
+            "name": "Business & Investing"
+        },
+        {
+            "id": 6,
+            "name": "Children Age 0-3"
+        },
+        {
+            "id": 7,
+            "name": "Children Age 4-7"
+        },
+        {
+            "id": 8,
+            "name": "Children Age 8-12"
+        },
+        {
+            "id": 9,
+            "name": "Christianity"
+        },
+        {
+            "id": 10,
+            "name": "Classics"
+        },
+        {
+            "id": 11,
+            "name": "Comic & Graphic Novels"
+        },
+        {
+            "id": 12,
+            "name": "Computers & Technology"
+        }
+    ]
+}
